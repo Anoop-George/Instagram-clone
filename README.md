@@ -6,3 +6,6 @@ All user action is editable, ie they can update their likes, comments and profil
 It supports Session and Token authentication.
 Backend in Django, frontend in React JS.
 The major difference from real Instagram is the user following system
+
+
+https://insta.pythonanywhere.com/f/#/
